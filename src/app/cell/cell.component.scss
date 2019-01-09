@@ -1,0 +1,45 @@
+:host {
+  float: left;
+  width: 20px;
+  height: 20px;
+  border: 1px solid black;
+  position: relative;
+}
+
+.cell {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.empty {
+  background-color: white;
+}
+
+.filled {
+  background-color: gray;
+}
+
+.red {
+  background-color: red;
+}
+.orange {
+  background-color: orange;
+}
+.yellow {
+  background-color: yellow;
+}
+.green {
+  background-color: green;
+}
+.blue {
+  background-color: blue;
+}
+.indigo {
+  background-color: indigo;
+}
+.violet {
+  background-color: violet;
+}
